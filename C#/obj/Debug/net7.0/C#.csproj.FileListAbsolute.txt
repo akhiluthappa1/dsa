@@ -1,0 +1,15 @@
+/Users/akhil/dsa/C#/bin/Debug/net7.0/C#
+/Users/akhil/dsa/C#/bin/Debug/net7.0/C#.deps.json
+/Users/akhil/dsa/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/Users/akhil/dsa/C#/bin/Debug/net7.0/C#.dll
+/Users/akhil/dsa/C#/bin/Debug/net7.0/C#.pdb
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.dll
+/Users/akhil/dsa/C#/obj/Debug/net7.0/refint/C#.dll
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.pdb
+/Users/akhil/dsa/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/Users/akhil/dsa/C#/obj/Debug/net7.0/ref/C#.dll

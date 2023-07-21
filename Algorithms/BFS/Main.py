@@ -1,4 +1,4 @@
-from DataStructures.Tree import TreeNode
+from Data_Structures.tree import TreeNode
 from bfs import bfs
 
 sample_root_node = TreeNode("Home")
